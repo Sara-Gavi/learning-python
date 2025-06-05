@@ -17,7 +17,6 @@ print(my_number)
 result = my_number + my_float
 print(result)
 
-
 print("¡Hola, Mundo!")
 print('Esto tambien funciona con una comilla')
 
@@ -25,5 +24,17 @@ print("python", "es","genial", sep = "-")
 
 print("Esto se imprime", end = "!") 
 print("en una linea")
+
+"""
+Así puedes documentar
+"""
+
+print(type(10))
+print(type(0))
+print(type(7373847382827399237328273827))
+print(376384836282273636 + 1) 
+print(type(1e3)) 
+
+
 
 
